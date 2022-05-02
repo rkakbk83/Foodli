@@ -1,0 +1,41 @@
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    color: aliceblue;
+    background-color: rgb(35, 35, 36);
+    font-size: .7rem;
+    padding: 0px 2px;
+}
+#home{
+    height: 300px;
+    padding: 3px 5px;
+}
+#home::before{
+    height: 418px;
+}
+#home p{
+    font-size: 1.2rem;
+}
+#services{
+    flex-direction: column;
+}
+#clients{
+    overflow: hidden;
+}
+.h1-primery{
+    font-size: 2rem;
+}
+.btn{
+    font-size: .5rem;
+    padding: 4px 20px;
+}
+#clients{
+    flex-wrap: wrap;
+}
+#clients img{
+    height: 50px;
+}
+#contact-box form{
+    width: 80%;
+}
