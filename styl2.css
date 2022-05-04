@@ -62,7 +62,7 @@ html{
 #home{
     display: flex;
     flex-direction: column;
-    height: 320px;
+    height: 335px;
     padding: 3px 100px;
     justify-content: center;
     align-items: center;
